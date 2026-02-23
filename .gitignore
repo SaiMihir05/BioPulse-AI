@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+
+# Environment variables
+.env
+
+# Data files (VERY IMPORTANT)
+data/
+*.csv
+*.csv.gz
+
+# Models
+models/*.joblib
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
